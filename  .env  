@@ -1,0 +1,8 @@
+# JWT
+JWT_SECRET=supersecretkey
+
+# MySQL
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_PASS=tu_password
+DB_NAME=pruebasdb
